@@ -12,13 +12,9 @@ streamlit run sonar_app.py
 ctrl+c
 deactivate
 
-
 //need of packages
 pip install scikit-learn
 pip install pyarrow
 pip install numpy
 pip install pandas
 pip install streamlit pandas numpy
-
-// for environment
-python -m venv venv
