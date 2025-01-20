@@ -1,4 +1,4 @@
-# 📘 Sonar Rock vs Mine Prediction 🌊⚒️  
+# 📘🪨💣 Sonar Rock vs Mine Prediction 🌊⚒️ 
 
 ## 🚀 Overview  
 Welcome to the **Sonar Rock vs Mine Prediction** project! 🎉 Using the power of **Machine Learning** and **Logistic Regression**, this application determines whether a given sonar signal represents a **rock** 🪨 or a **mine** 🏭. The sleek **Streamlit** interface ensures an engaging and user-friendly experience!  
