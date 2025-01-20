@@ -72,10 +72,10 @@ Welcome to the **Sonar Rock vs Mine Prediction** project! 🎉 Using the power o
 - Eye-catching emojis 🌟 for a fun and interactive feel.
 - A prediction button that reveals the result dynamically.
   
-## Output:
+## Output: 🪨💣
 ![Output Example](images/Picture2.png)
 
 ## 🏁 Results
 - Rock Detected 🪨: "This is a ROCK! Perfect for nature's collection. 🌱"
-- Mine Detected 🏭: "Alert! This is a MINE. Stay cautious! ⚠️"
+- Mine Detected 💣: "Alert! This is a MINE. Stay cautious! ⚠️"
 
