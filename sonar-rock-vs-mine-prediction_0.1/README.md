@@ -71,6 +71,10 @@ Welcome to the **Sonar Rock vs Mine Prediction** project! 🎉 Using the power o
 - Intuitive interface with clear instructions.
 - Eye-catching emojis 🌟 for a fun and interactive feel.
 - A prediction button that reveals the result dynamically.
+  
+### Example Output:
+![Output Example](streamlit-app/assets/output_example.jpg)
+
 ## 🏁 Results
 - Rock Detected 🪨: "This is a ROCK! Perfect for nature's collection. 🌱"
 - Mine Detected 🏭: "Alert! This is a MINE. Stay cautious! ⚠️"
