@@ -73,7 +73,7 @@ Welcome to the **Sonar Rock vs Mine Prediction** project! 🎉 Using the power o
 - A prediction button that reveals the result dynamically.
   
 ### Example Output:
-![Output Example](streamlit-app/assets/output_example.jpg)
+![Output Example](sonar rock vs mine/images/Picture2.png)
 
 ## 🏁 Results
 - Rock Detected 🪨: "This is a ROCK! Perfect for nature's collection. 🌱"
