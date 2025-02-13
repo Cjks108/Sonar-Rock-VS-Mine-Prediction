@@ -22,7 +22,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 ## Usage
 ```bash
-python sonar_rock_vs_mine.py
+python app.py
 ```
 
 ## Results
