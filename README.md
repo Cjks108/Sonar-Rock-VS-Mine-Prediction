@@ -1,4 +1,4 @@
-# Sonar-Rock-VS-Mine-Prediction_
+# Sonar-Rock-VS-Mine-Prediction_0.2
 A Streamlit-based web application that uses a Logistic Regression model to classify objects as either a Rock or a Mine based on sonar signal data. Includes interactive UI, prediction visualizations, and model accuracy metrics.
 
 ## Video 
