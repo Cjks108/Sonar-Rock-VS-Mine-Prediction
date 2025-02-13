@@ -2,7 +2,7 @@
 A Streamlit-based web application that uses a Logistic Regression model to classify objects as either a Rock or a Mine based on sonar signal data. Includes interactive UI, prediction visualizations, and model accuracy metrics.
 
 ## Video 
-[![SONAR Rock vs Mine Prediction with Python](https://tse2.mm.bing.net/th?id=OIP.g4FNXh1F4ITTwDs72XKBPgHaEK&pid=Api)](https://www.youtube.com/watch?v=example_link)
+[![SONAR Rock vs Mine Prediction with Logistic Regression ]()
 
 Click on the thumbnail above to watch the complete tutorial on YouTube.
 
@@ -28,7 +28,7 @@ python sonar_rock_vs_mine.py
 ```
 
 ## Results
-- Achieved an accuracy of approximately 85% on the test dataset.
+- Achieved an accuracy of approximately 83% on the test dataset.
 - Confusion matrix and classification report are generated for evaluation.
 
 ## Conclusion
