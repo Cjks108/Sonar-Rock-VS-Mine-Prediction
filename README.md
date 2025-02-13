@@ -2,9 +2,7 @@
 A Streamlit-based web application that uses a Logistic Regression model to classify objects as either a Rock or a Mine based on sonar signal data. Includes interactive UI, prediction visualizations, and model accuracy metrics.
 
 ## Video 
-[![SONAR Rock vs Mine Prediction with Logistic Regression ]()
 
-Click on the thumbnail above to watch the complete tutorial on YouTube.
 
 ## Dataset
 - The dataset used is the Sonar dataset from the UCI Machine Learning Repository.
